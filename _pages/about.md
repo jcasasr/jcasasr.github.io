@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jordi Casas-Roma academic personal website"
+title: "Jordi Casas-Roma Academic Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,13 +11,13 @@ He holds a Ph.D. in Computer Science from Universitat Autònoma de Barcelona ([U
 
 Currently, he is an Associate Researcher at the Computer Vision Center ([CVC](https://www.cvc.uab.es/)). His main research interests include artificial intelligence, machine learning, graph mining, and data privacy.
 
-Current positions
-======
+# Current positions
+
 - **Lecturer** at the Computer Science Department at Universitat Autònoma de Barcelona (UAB)
 - **Associate researcher** at Computer Vision Center (CVC-UAB)
 
-Education
-======
+# Education
+
 1. **PhD** on Computer Science by Universitat Autònoma de Barcelona. Thesis directed by Jordi Herrera-Joancomartí and Vicenç Torra (available here: [PhD-jcasasr](http://hdl.handle.net/10803/285566)) (UAB, 2014). Thesis awarded with cum laude.
 1. **M.S. Degree** on Advanced Artificial Intelligence by Universidad Nacional de Educación a Distancia. Master’s thesis awarded with honours (UNED, 2011).
 1. **B.S. Degree** in Computer Science by Universitat Autònoma de Barcelona (UAB, 2002).
