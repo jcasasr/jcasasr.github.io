@@ -1,7 +1,7 @@
 ---
 title: "Evolutionary Algorithm for Graph Anonymization"
 collection: publications
-category: report
+category: reports
 permalink: /publication/2014-report-arXiv
 excerpt: 'In recent years there has been a significant increase in the use of graphs as a tool for representing information. It is very important to preserve the privacy of users when one wants to publish this information, especially in the case of social graphs. In this case, it is essential to implement an anonymization process in the data in order to preserve users privacy. In this paper we present an algorithm for graph anonymization, called Evolutionary Algorithm for Graph Anonymization (EAGA), based on edge modifications to preserve the k-anonymity model.'
 date: 2014-03-26
