@@ -1,16 +1,12 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "Brain Networks and Medical Image Analysis"
 collection: talks
-type: "Conference proceedings talk"
+type: "CVC Seminar"
 permalink: /talks/2023-12-01-BrainNets
 venue: "Computer Center Vision (CVC)"
 date: 2023-12-01
 location: "Barcelona, Spain"
 ---
-
-# Brain Networks and Medical Image Analysis
-
-## CVC Seminar
 
 In this seminar, the research conducted over the past years will be presented, along with new projects or ideas to be implemented in the future. The objective is to share prior experiences and promote synergies with other researchers and groups within the Computer Vision Center.
 

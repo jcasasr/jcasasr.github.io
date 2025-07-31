@@ -2,7 +2,7 @@
 title: "Teaching Activities"
 collection: teaching
 type: "Teaching courses"
-permalink: /teaching/teaching-activities
+permalink: /teaching/activities
 venue: "Universitat Autònoma de Barcelona (UAB), Department of Computer Science"
 date: 2025-01-01
 location: "Barcelona, Spain"
