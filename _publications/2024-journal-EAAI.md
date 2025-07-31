@@ -1,0 +1,14 @@
+---
+title: "Spiking neural networks for autonomous driving: A review"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-journal-EAAI
+excerpt: 'The rapid progress of autonomous driving (AD) has triggered a surge in demand for safer and more efficient autonomous vehicles, owing to the intricacy of modern urban environments. Traditional approaches to autonomous driving have heavily relied on conventional machine learning methodologies, particularly convolutional neural networks (CNNs) and recurrent neural networks (RNNs), for tasks such as perception, decision-making, and control. Presently, major companies such as Tesla, Waymo, Uber, and Volkswagen Group (VW) leverage neural networks for advanced perception and autonomous decision-making. However, concerns have been raised about the escalating computational requirements of training these neural models, primarily in terms of energy consumption and environmental impact. In the situation of optimisation and sustainability, Spiking Neural Networks (SNNs), inspired by the temporal processing of the human brain, have come forth as a third-generation of neural networks, famed for their energy efficiency, potential for handling real-time driving scenarios and processing temporal information efficiently. However, SNNs have not yet achieved the performance levels of their predecessors in critical AD tasks, partly due to the intricate dynamics of neurons, their non-differentiable spike operations, and the lack of specialised benchmark workloads and datasets, among others. This paper examines the principles, models, learning rules, and recent advancements of SNNs in the AD domain. Neuromorphic hardware, hand in hand with SNNs, shows potential but has challenges in accessibility, cost, integration, and scalability. This examination aims to bridge gaps by providing a comprehensive understanding of SNNs in the AD field. It emphasises the role of SNNs in shaping the future of AD while considering optimisation and sustainability.'
+date: 2024-12-01
+venue: 'Engineering Applications of Artificial Intelligence'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://doi.org/10.1016/j.engappai.2024.109415'
+citation: 'Fernando S. Martínez, Jordi Casas-Roma, Laia Subirats, Raúl Parada, (2024). Spiking neural networks for autonomous driving: A review. Engineering Applications of Artificial Intelligence, Volume 138, Part B, N. 109415, https://doi.org/10.1016/j.engappai.2024.109415'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

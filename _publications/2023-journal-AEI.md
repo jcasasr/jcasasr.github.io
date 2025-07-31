@@ -1,0 +1,14 @@
+---
+title: "CO2 impact on convolutional network model training for autonomous driving through behavioral cloning"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-journal-AEI
+excerpt: 'Autonomous driving and the machine learning (ML) models developed to achieve it have grown rapidly in importance and complexity respectively, and with them has also grown their carbon footprint due to long training times. Given the importance of climate change, it should be necessary to include the CO2 impact of ML models explicitly to encourage competition on more than just model quality. This work presents the implementation of two different Convolutional Neural Network (CNN) training approaches, used for autonomous driving by behavioral cloning in a simulated environment and compares their impact on the CO2 footprint. Using a cloud execution environment and driving data, previously obtained by applying an end-to-end deep learning technique, the first implemented training approach is a classical approach that uses an image generator that carries out the pre-processing and data augmentation during training. The contribution proposed in this paper is a second approach that improves the training by decreasing the training time, carrying out the data augmentation and pre-processing tasks before training the model, storing the result in RAM and then starting the training. The new approach to training presented in this article finishes the training approximately 38 times faster and reduces the carbon footprint impact by approximately 96%. In absolute values, this is a reduction from an average value of approximately 0.1643 (kg) to 0.007 (kg). To estimate the impact of CO2, the hardware used for the project, the training time and the cloud service provider were all taken into account.'
+date: 2023-04-01
+venue: 'Advanced Engineering Informatics'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://doi.org/10.1016/j.aei.2023.101968'
+citation: 'Fernando Sevilla Martínez, Raúl Parada, Jordi Casas-Roma, (2023). CO2 impact on convolutional network model training for autonomous driving through behavioral cloning, Advanced Engineering Informatics, Volume 56, N. 101968, https://doi.org/10.1016/j.aei.2023.101968'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
