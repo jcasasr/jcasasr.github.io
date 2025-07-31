@@ -1,0 +1,14 @@
+---
+title: "Applying multilayer analysis to morphological, structural, and functional brain networks to identify relevant dysfunction patterns"
+collection: publications
+category: manuscripts
+permalink: /publication/2022-journal-NetNeuro
+excerpt: 'In recent years, research on network analysis applied to MRI data has advanced significantly. However, the majority of the studies are limited to single networks obtained from resting-state fMRI, diffusion MRI, or gray matter probability maps derived from T1 images. Although a limited number of previous studies have combined two of these networks, none have introduced a framework to combine morphological, structural, and functional brain connectivity networks. The aim of this study was to combine the morphological, structural, and functional information, thus defining a new multilayer network perspective. This has proved advantageous when jointly analyzing multiple types of relational data from the same objects simultaneously using graph- mining techniques. The main contribution of this research is the design, development, and validation of a framework that merges these three layers of information into one multilayer network that links and relates the integrity of white matter connections with gray matter probability maps and resting-state fMRI. To validate our framework, several metrics from graph theory are expanded and adapted to our specific domain characteristics. This proof of concept was applied to a cohort of people with multiple sclerosis, and results show that several brain regions with a synchronized connectivity deterioration could be identified.'
+date: 2022-07-01
+venue: 'Network Neuroscience'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://doi.org/10.1162/netn_a_00258'
+citation: 'Jordi Casas-Roma, Eloy Martinez-Heras, Albert Solé-Ribalta, Elisabeth Solana, Elisabet Lopez-Soley, Francesc Vivó, Marcos Diaz-Hurtado, Salut Alba-Arbalat, Maria Sepulveda, Yolanda Blanco, Albert Saiz, Javier Borge-Holthoefer, Sara Llufriu, Ferran Prados; Applying multilayer analysis to morphological, structural, and functional brain networks to identify relevant dysfunction patterns. Network Neuroscience 2022; 6 (3): 916–933. doi: https://doi.org/10.1162/netn_a_00258'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

@@ -1,0 +1,14 @@
+---
+title: "Recent advances in the longitudinal segmentation of multiple sclerosis lesions on magnetic resonance imaging: a review"
+collection: publications
+category: manuscripts
+permalink: /publication/2022-journal-NeuRad
+excerpt: 'Multiple sclerosis (MS) is a chronic autoimmune disease characterized by demyelinating lesions that are often visible on magnetic resonance imaging (MRI). Segmentation of these lesions can provide imaging biomarkers of disease burden that can help monitor disease progression and the imaging response to treatment. Manual delineation of MRI lesions is tedious and prone to subjective bias, while automated lesion segmentation methods offer objectivity and speed, the latter being particularly important when analysing large datasets. Lesion segmentation can be broadly categorised into two groups: cross-sectional methods, which use imaging data acquired at a single time-point to characterise MRI lesions; and longitudinal methods, which use imaging data from the same subject acquired at two or more different time-points to characterise lesions over time. The main objective of longitudinal segmentation approaches is to more accurately detect the presence of new MS lesions and the growth or remission of existing lesions, which may be effective biomarkers of disease progression and treatment response. This paper reviews articles on longitudinal MS lesion segmentation methods published over the past 10 years. These are divided into traditional machine learning methods and deep learning techniques. PubMed articles using longitudinal information and comparing fully automatic two time point segmentations in any step of the process were selected. Nineteen articles were reviewed. There is an increasing number of deep learning techniques for longitudinal MS lesion segmentation that are promising to help better understand disease progression.'
+date: 2022-07-22
+venue: 'Neuroradiology'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://doi.org/10.1007/s00234-022-03019-3'
+citation: 'Diaz-Hurtado, M., Martínez-Heras, E., Solana, E. et al. Recent advances in the longitudinal segmentation of multiple sclerosis lesions on magnetic resonance imaging: a review. Neuroradiology 64, 2103–2117 (2022). https://doi.org/10.1007/s00234-022-03019-3'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
