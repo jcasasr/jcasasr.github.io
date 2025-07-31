@@ -1,0 +1,13 @@
+---
+title: "Reducing the Learning Domain by Using Image Processing to Diagnose COVID-19 from X-Ray Image"
+collection: publications
+category: conferences
+permalink: /publication/2022-conf-CCIA
+excerpt: 'Over the last months, dozens of artificial intelligence (AI) solutions for COVID-19 diagnosis based on chest X-ray image analysis have been proposed. All of them with very impressive sensitivity and specificity results. However, its generalization and translation to the clinical practice are rather challenging due to the discrepancies between domain distributions when training and test data come from different sources. Consequently, applying a trained model on a new data set may have a problem with domain adaptation leading to performance degradation. This research aims to study the impact of image pre-processing on pre-trained deep learning models to reduce the learning domain. The dataset used in this research consists of 5,000 X-ray images obtained from different sources under two categories: negative and positive COVID-19 detection. We implemented transfer learning in 3 popular convolutional neural networks (CNNs), including VGG16, VGG19, and DenseNet169. We repeated the study following the same structure for original and pre-processed images. The pre-processing method is based on the Contrast Limited Adaptive Histogram Equalization (CLAHE) filter application and image registration. After evaluating the models, the CNNs that have been trained with pre-processed images obtained an accuracy score up to 1.2% better than the unprocessed ones. Furthermore, we can observe that in the 3 CNN models, the repeated misclassified images represent 40.9% (207/506) of the original image dataset with the erroneous result. In pre-processed ones, this percentage is 48.9% (249/509). In conclusion, image processing techniques can help to reduce the learning domain for deep learning applications.'
+date: 2022-01-01
+venue: '24th International Conference of the Catalan Association for Artificial Intelligence'
+paperurl: 'https://doi.org/10.3233/faia220343'
+citation: 'Abad, M., Casas-Roma, J., & Prados, F. (2022). Reducing the Learning Domain by Using Image Processing to Diagnose COVID-19 from X-Ray Image. In Frontiers in Artificial Intelligence and Applications. IOS Press. https://doi.org/10.3233/faia220343'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
