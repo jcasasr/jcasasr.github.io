@@ -4,7 +4,7 @@ collection: teaching
 type: "Books"
 permalink: /teaching/teaching-books
 venue: ""
-date: 
+date: 2025-01-01
 location: ""
 ---
 
