@@ -8,7 +8,7 @@ date: 2025-01-01
 location: "Barcelona, Spain"
 ---
 
-## Associate professor at Faculty of Computer Science, Multimedia and Telecommunications at Universitat Oberta de Catalunya (UOC).
+**Associate professor** at Faculty of Computer Science, Multimedia and Telecommunications at Universitat Oberta de Catalunya (UOC).
 
 Courses coordinated in the following areas:
 
@@ -18,7 +18,7 @@ Courses coordinated in the following areas:
 - Complex Networks & Social Network Analysis (SNA)
 - Data Privacy
 
-## Part-time associate professor at Universitat Autònoma de Barcelona (UAB).
+**Part-time associate professor** at Universitat Autònoma de Barcelona (UAB).
 
 Courses given:
 

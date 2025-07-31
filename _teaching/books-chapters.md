@@ -8,8 +8,6 @@ date: 2023-01-01
 location: ""
 ---
 
-## Teaching Book chapters
-
 - Casas-Roma, J. (2016). **Análisis de redes** (book chapter in Spanish). Book: Fundamentos de Data Science. Barcelona, Spain: Oberta UOC Publishing, SL.
 - Casas-Roma, J. (2016). **Open Data: información de la ciudad en abierto** (book chapter in Spanish). Book: Tecnologías de la Smart City. Barcelona, Spain: Oberta UOC Publishing, SL.
 - Borrell Viader, J.; Casas Roma, J.; Garrigues, C.; Pérez Solà, C.; Perramon Tornil, X.; Rifà, H; Robles Martínez, S. (2016). **Seguridad y privacidad en las smart cities** (book chapter in Spanish). Book: Tecnologías de la Smart City. Barcelona, Spain: Oberta UOC Publishing, SL.

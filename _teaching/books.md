@@ -8,8 +8,6 @@ date: 2024-01-01
 location: ""
 ---
 
-## Teaching books
-
 - Bosch Rué, A.; Casas Roma, J.; Lozano Bagén, T. (2020). **Deep learning: Principios y fundamentos** (book in Spanish. Available [here](http://www.editorialuoc.cat/deep-learning)). Barcelona, Spain: Editorial UOC. 260 pp. ISBN: 9788491806561
 - Casas Roma, J.; Nin Guerrero, J.; Julbe López, F. (2019). **Big data: Análisis de datos en entornos masivos** (book in Spanish. Available [here](http://www.editorialuoc.cat/big-data_6)). Barcelona, Spain: Editorial UOC. 287 pp. ISBN: 9788491804727
 - Gironés Roig, J.; Casas-Roma, J.; Minguillón Alfonso, J.; Caihuelas Quiles, R. (2017). **Minería de datos: Modelos y algoritmos** (book in Spanish. Available [here](http://www.editorialuoc.cat/mineria-de-datos)). Barcelona, Spain: Editorial UOC. 274 pp. ISBN: 9788491169031.
