@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=OxFJ95EAAAAJ).
+
 ## Journal papers (indexed in ISI-JCR)
 
 1. F. S. Martínez, **J. Casas-Roma**, L. Subirats, R. Parada (2024). *Spiking neural networks for autonomous driving: A review*. Engineering Applications of Artificial Intelligence, Volume 138, Part B, [https://doi.org/10.1016/j.engappai.2024.109415](https://doi.org/10.1016/j.engappai.2024.109415)
