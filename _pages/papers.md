@@ -11,28 +11,48 @@ redirect_from:
 
 ## Journal papers (indexed in ISI-JCR)
 
-1. F. S. Martínez, **J. Casas-Roma**, L. Subirats, R. Parada (2024). *Spiking neural networks for autonomous driving: A review*. Engineering Applications of Artificial Intelligence, Volume 138, Part B, [https://doi.org/10.1016/j.engappai.2024.109415](https://doi.org/10.1016/j.engappai.2024.109415) (IF 2023: 7.500, Q1)
+1. F. S. Martínez, **J. Casas-Roma**, L. Subirats, R. Parada (2024). *Spiking neural networks for autonomous driving: A review*. Engineering Applications of Artificial Intelligence, Volume 138, Part B, [https://doi.org/10.1016/j.engappai.2024.109415](https://doi.org/10.1016/j.engappai.2024.109415)
+  - IF 2023: 7.500 | Q1
+
 1. M. Abad, **J. Casas-Roma**, F. Prados (2024). *Generalizable disease detection using model ensemble on chest X-ray images*. Scientific Reports Vol. 14, Art. N:5890. [https://www.nature.com/articles/s41598-024-56171-6](https://www.nature.com/articles/s41598-024-56171-6) (IF 2023: 4.600, Q2)
-1. M. Lacasa, P. Launois, F. Prados, J. Alegre, **J. Casas-Roma** (2023). *Unsupervised cluster analysis reveals distinct subtypes of ME/CFS patients based on peak oxygen consumption and SF-36 scores*. Clinical Therapeutics, V. 45(12) pp. 1228-1235. [https://doi.org/10.1016/j.clinthera.2023.09.007](https://doi.org/10.1016/j.clinthera.2023.09.007) (IF: 3.200, Q3)
-1. M. Lacasa, F. Prados, J. Alegre, **J. Casas-Roma** (2023). *A synthetic data generation system for myalgic encephalomyelitis/chronic fatigue syndrome questionnaires*. Scientific Reports 13, 14256. [https://doi.org/10.1038/s41598-023-40364-6](https://doi.org/10.1038/s41598-023-40364-6) (IF: 4.600, Q2)
-1. F. Sevilla Martínez, R. Parada, **J. Casas-Roma** (2023). *CO2 impact on convolutional network model training for autonomous driving through behavioral cloning*. Advanced Engineering Informatics Vol. 56. [https://doi.org/10.1016/j.aei.2023.101968](https://doi.org/10.1016/j.aei.2023.101968) (IF 2022: 7.862, Q1)
-1. **J. Casas-Roma**, E. Martinez-Heras, A. Solé-Ribalta, E. Solana, E. Lopez-Soley, F. Vivó, M. Diaz-Hurtado, S. Alba-Arbalat, M. Sepulveda, Y. Blanco, A. Saiz, J. Borge-Holthoefer, S. Llufriu, F. Prados (2022). *Applying multilayer analysis to morphological, structural and functional brain networks to identify relevant dysfunction patterns*. Network Neuroscience 1-42. [https://doi.org/10.1162/netn_a_00258](https://doi.org/10.1162/netn_a_00258) (IF 2021: 4.980, Q1)
-  - [Source code](https://github.com/NeuroADaS-Lab/Multilayer-MRI)
+
+1. M. Lacasa, P. Launois, F. Prados, J. Alegre, **J. Casas-Roma** (2023). *Unsupervised cluster analysis reveals distinct subtypes of ME/CFS patients based on peak oxygen consumption and SF-36 scores*. Clinical Therapeutics, V. 45(12) pp. 1228-1235. [https://doi.org/10.1016/j.clinthera.2023.09.007](https://doi.org/10.1016/j.clinthera.2023.09.007) 
+  - IF: 3.200 | Q3
+
+1. M. Lacasa, F. Prados, J. Alegre, **J. Casas-Roma** (2023). *A synthetic data generation system for myalgic encephalomyelitis/chronic fatigue syndrome questionnaires*. Scientific Reports 13, 14256. [https://doi.org/10.1038/s41598-023-40364-6](https://doi.org/10.1038/s41598-023-40364-6)
+  - IF: 3.800 | Q1
+
+1. F. Sevilla Martínez, R. Parada, **J. Casas-Roma** (2023). *CO2 impact on convolutional network model training for autonomous driving through behavioral cloning*. Advanced Engineering Informatics Vol. 56. [https://doi.org/10.1016/j.aei.2023.101968](https://doi.org/10.1016/j.aei.2023.101968) 
+  - IF: 8.000 | Q1
+
+1. **J. Casas-Roma**, E. Martinez-Heras, A. Solé-Ribalta, E. Solana, E. Lopez-Soley, F. Vivó, M. Diaz-Hurtado, S. Alba-Arbalat, M. Sepulveda, Y. Blanco, A. Saiz, J. Borge-Holthoefer, S. Llufriu, F. Prados (2022). *Applying multilayer analysis to morphological, structural and functional brain networks to identify relevant dysfunction patterns*. Network Neuroscience 1-42. [https://doi.org/10.1162/netn_a_00258](https://doi.org/10.1162/netn_a_00258) 
+  - IF: 4.700 | Q2 | [Source code](https://github.com/NeuroADaS-Lab/Multilayer-MRI)
+
 1. Diaz-Hurtado, M., Martínez-Heras, E., Solana, E., **Casas-Roma, J.**, Llufriu, S., Kanber, B., Prados, F. (2022). *Recent advances in the longitudinal segmentation of multiple sclerosis lesions on magnetic resonance imaging: a review*. Neuroradiology. [http://doi.org/10.1007/s00234-022-03019-3](http://doi.org/10.1007/s00234-022-03019-3) (IF 2021: 2.995, Q1)
+
 1. E. Solana, E. Martinez-Heras, **J. Casas-Roma**, L. Calvet, E. Lopez-Soley, M. Sepulveda, N. Sola-Valls, C. Montejo, Y. Blanco, I. Pulido-Valdeolivas, M. Andorra, A. Saiz, F. Prados, S. Llufriu. (2019). *Modified connectivity of vulnerable brain nodes in multiple sclerosis, their impact on cognition and their discriminative value*. Scientific Reports 9, 20172. [https://doi.org/10.1038/s41598-019-56806-z](https://doi.org/10.1038/s41598-019-56806-z) (IF 2018: 4.011, Q1)
+
 1. **J. Casas-Roma**. (2020). *DUEF-GA: Data Utility and Privacy Evaluation Framework for Graph Anonymization*. International Journal of Information Security (IJIS), Vol 19, pp. 465-478. [https://doi.org/10.1007/s10207-019-00469-4](https://doi.org/10.1007/s10207-019-00469-4) (IF 2018: 1.822, Q2)
   - [Source code](https://github.com/jcasasr/DUEF-GA)
+
 1. **J. Casas-Roma**. (2019). *An evaluation of vertex and edge modification techniques for privacy-preserving on graphs*. Journal of Ambient Intelligence and Humanized Computing, Vol. 14, pp. 15109–15125. [https://doi.org/10.1007/s12652-019-01363-6](https://doi.org/10.1007/s12652-019-01363-6) (IF 2018: 1.423, Q3)
   - [Source code](https://github.com/jcasasr/Evaluating-vertex-edge-perturbation)
+
 1. R. Parada, J. Font and **J. Casas-Roma**. (2019). *Predicting Energy Generation Using Forecasting Techniques in Catalan Reservoirs*. Energies (Special Issue Artificial Intelligence in Data Science For Energy Management in Sustainability), Vol 12(10), 1832. [https://doi.org/10.3390/en12101832](https://doi.org/10.3390/en12101832) (IF 2018: 2.707, Q2)
+
 1. **J. Casas-Roma**, J. Salas, F. D. Malliaros and M. Vazirgiannis. (2019). *k-Degree Anonymity on Directed Networks*. Knowledge and Information Systems (KAIS), Vol. 61, pp. 1743-1768. [https://doi.org/10.1007/s10115-018-1251-5](https://doi.org/10.1007/s10115-018-1251-5) (IF: 2.397, Q2)
   - [Source code](https://github.com/jcasasr/DGA)
+
 1. M. Ros-Martín, J. Salas and **J. Casas-Roma**. (2018). *Scalable non-deterministic clustering-based k-anonymization for rich networks*. International Journal of Information Security (IJIS), Vol 18(2), pp. 219-238. [http://doi.org/10.1007/s10207-018-0409-1](http://doi.org/10.1007/s10207-018-0409-1) (IF: 1.822, Q2)
   - [Source code](https://github.com/jcasasr/SCAN-Algorithm)
+
 1. F. Rousseau, **J. Casas-Roma** and M. Vazirgiannis. (2017). *Community-Preserving Anonymization of Graphs*. Knowledge and Information Systems (KAIS), Vol. 54(2), pp. 315-343. [http://doi.org/10.1007/s10115-017-1064-y](http://doi.org/10.1007/s10115-017-1064-y) (IF: 2.247, Q2)
+
 1. **J. Casas-Roma**, J. Herrera-joancomartí and V. Torra. (2016). *A survey of graph-modication techniques for privacy-preserving on networks*. Artificial Intelligence Review (AIRE), Vol 47(3), pp. 341-366. [http://doi.org/10.1007/s10462-016-9484-8](http://doi.org/10.1007/s10462-016-9484-8) (IF: 2.627, Q2)
+
 1. **J. Casas-Roma**, J. Herrera-joancomartí and V. Torra. (2016). *k-Degree Anonymity And Edge Selection: Improving Data Utility In Large Networks*. Knowledge and Information Systems (KAIS), Vol. 50(2), pp. 447-474. [http://doi.org/10.1007/s10115-016-0947-7](http://doi.org/10.1007/s10115-016-0947-7) (IF: 2.004, Q2)
   - [Source code](https://github.com/jcasasr/UMGA)
+
 1. **J. Casas-Roma**, J. Herrera-joancomartí and V. Torra. (2015). *Anonymizing Graphs: Measuring Quality for Clustering*. Knowledge and Information Systems (KAIS), Vol. 44(3), pp. 507–528. [http://doi.org/10.1007/s10115-014-0774-7](http://doi.org/10.1007/s10115-014-0774-7) (IF: 1.702, Q1)
   - [Source code](https://github.com/jcasasr/Anonymizing-Graphs)
 
