@@ -67,7 +67,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 1. Carmona, F., Conesa, J., **Casas-Roma, J.** (2019). *Towards the Analysis of How Anonymization Affects Usefulness of Health Data in the Context of Machine Learning*. 2019 IEEE 32nd International Symposium on Computer-Based Medical Systems (CBMS), pp. 604-608. Cordoba, Spain. [https://doi.org/10.1109/CBMS.2019.00126](https://doi.org/10.1109/CBMS.2019.00126)
 
-1. **J. Casas-Roma (2018)**. *Data Utility Evaluation Framework for Graph Anonymization*. Actas de la XV Reunión Española sobre Criptología y Seguridad de la Información (RECSI), pp. 123-128. Granada, Spain. ISBN: 978-84-09-02463-6
+1. **J. Casas-Roma** (2018). *Data Utility Evaluation Framework for Graph Anonymization*. Actas de la XV Reunión Española sobre Criptología y Seguridad de la Información (RECSI), pp. 123-128. Granada, Spain. ISBN: 978-84-09-02463-6
 
 1. I. Guitart, J. Conesa, **J. Casas-Roma** (2016). *A Preliminary Study about the Analytic Maturity of Educational Organizations*. Proceedings of the 2016 International Conference on Intelligent Networking and Collaborative Systems (INCoS), pp. 345-350. IEEE. [https://doi.org/10.1109/INCoS.2016.53](https://doi.org/10.1109/INCoS.2016.53)
 
@@ -99,8 +99,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Scientific papers and reports
 
-1. Casas-Roma, J., Herrera-Joancomartí, J., and Torra, V. (2014). Privacy-preserving and data utility in graph mining. Universitat Autònoma de Barcelona (UAB). Available [here](http://hdl.handle.net/10803/285566).
+1. **Casas-Roma, J.**, Herrera-Joancomartí, J., and Torra, V. (2014). Privacy-preserving and data utility in graph mining. Universitat Autònoma de Barcelona (UAB). Available [here](http://hdl.handle.net/10803/285566).
 
-1. Casas-Roma, J., Herrera-Joancomartí, J., and Torra, V. (2013). Evolutionary Algorithm for Graph Anonymization, Available at [http://arxiv.org/abs/1310.0229v2](http://arxiv.org/abs/1310.0229v2)
+1. **Casas-Roma, J.**, Herrera-Joancomartí, J., and Torra, V. (2013). Evolutionary Algorithm for Graph Anonymization, Available at [http://arxiv.org/abs/1310.0229v2](http://arxiv.org/abs/1310.0229v2)
 
-1. Casas-Roma, J. (2011). Preservación de la privacidad en procesos de minería de datos basados en grafos. Universidad Nacional de Educación a Distancia (UNED).
+1. **Casas-Roma, J.** (2011). Preservación de la privacidad en procesos de minería de datos basados en grafos. Universidad Nacional de Educación a Distancia (UNED).
