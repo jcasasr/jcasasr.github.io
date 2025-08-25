@@ -56,6 +56,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Conferences and workshops
 
+1. **Casas-Roma, J.**, Lozano-Bagén, T. (2026). *Comparing Graph Neural Networks for Single and Multi-layer Brain Connectivity Analysis in Multiple Sclerosis*. In: Torra, V., Narukawa, Y., Domingo-Ferrer, J. (eds) Modeling Decisions for Artificial Intelligence. MDAI 2025. Lecture Notes in Computer Science(), vol 15957. Springer, Cham. [https://doi.org/10.1007/978-3-032-00891-6_27](https://doi.org/10.1007/978-3-032-00891-6_27)
+
 1. Subirà-Cribillers, M., Solé-Casaramona, J., Lladós, J., **Casas-Roma, J.** (2025). *Graph Neural Networks for Multimodal Brain Connectivity Analysis in Multiple Sclerosis*. In: Graph-Based Representations in Pattern Recognition. GbRPR 2025. Lecture Notes in Computer Science, vol 15727. Springer, Cham. [https://doi.org/10.1007/978-3-031-94139-9_9](https://doi.org/10.1007/978-3-031-94139-9_9)
   - [Source code](https://github.com/jcasasr/CVC_BrainNetsPipeline)
 
