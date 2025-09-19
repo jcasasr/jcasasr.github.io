@@ -13,6 +13,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Journal papers (indexed in ISI-JCR)
 
+1. F. S. Martínez, **J. Casas-Roma**, L. Subirats and R. Parada, *Eco-Efficient Deployment of Spiking Neural Networks on Low-Cost Edge Hardware*, in IEEE Networking Letters, *In press*, [https://doi.org/10.1109/LNET.2025.3611426](https://doi.org/10.1109/LNET.2025.3611426)
+
 1. F. S. Martínez, **J. Casas-Roma**, L. Subirats, R. Parada (2024). *Spiking neural networks for autonomous driving: A review*. Engineering Applications of Artificial Intelligence, Volume 138, Part B, [https://doi.org/10.1016/j.engappai.2024.109415](https://doi.org/10.1016/j.engappai.2024.109415)
 
 1. M. Abad, **J. Casas-Roma**, F. Prados (2024). *Generalizable disease detection using model ensemble on chest X-ray images*. Scientific Reports Vol. 14, Art. N:5890. [https://www.nature.com/articles/s41598-024-56171-6](https://www.nature.com/articles/s41598-024-56171-6) 
