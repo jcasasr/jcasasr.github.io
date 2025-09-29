@@ -104,8 +104,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Scientific papers and reports
 
-1. **Casas-Roma, J.**, Herrera-Joancomartí, J., and Torra, V. (2014). Privacy-preserving and data utility in graph mining. Universitat Autònoma de Barcelona (UAB). Available [here](http://hdl.handle.net/10803/285566).
+1. **Casas-Roma, J.**, Herrera-Joancomartí, J., and Torra, V. (2014). Privacy-preserving and data utility in graph mining. Universitat Autònoma de Barcelona (UAB). Available at [http://hdl.handle.net/10803/285566](http://hdl.handle.net/10803/285566).
 
 1. **Casas-Roma, J.**, Herrera-Joancomartí, J., and Torra, V. (2013). Evolutionary Algorithm for Graph Anonymization, Available at [http://arxiv.org/abs/1310.0229v2](http://arxiv.org/abs/1310.0229v2)
 
-1. **Casas-Roma, J.** (2011). Preservación de la privacidad en procesos de minería de datos basados en grafos. Universidad Nacional de Educación a Distancia (UNED).
+1. **Casas-Roma, J.** (2011). Preservación de la privacidad en procesos de minería de datos basados en grafos. Universidad Nacional de Educación a Distancia (UNED). Available at [https://hdl.handle.net/20.500.14468/14508](https://hdl.handle.net/20.500.14468/14508).
