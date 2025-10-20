@@ -13,7 +13,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Journal papers (indexed in ISI-JCR)
 
-1. Lozano-Bagén, T., Martinez-Heras, E., Pontillo, G., Solana, E., Vivó, F., Petracca, M., Calvi, A., Garrido-Romero, S., Solé-Ribalta, A., Llufriu, S., Prados, F. **Casas-Roma, J.**. *Evaluating topological and graph-theoretical approaches to extract complex multimodal brain connectivity patterns in multiple sclerosis*. Health Inf Sci Syst 13, 68 (2025). [https://doi.org/10.1007/s13755-025-00386-y](https://doi.org/10.1007/s13755-025-00386-y)
+1. Lozano-Bagén, T., Martinez-Heras, E., Pontillo, G., Solana, E., Vivó, F., Petracca, M., Calvi, A., Garrido-Romero, S., Solé-Ribalta, A., Llufriu, S., Prados, F., **Casas-Roma, J.**. *Evaluating topological and graph-theoretical approaches to extract complex multimodal brain connectivity patterns in multiple sclerosis*. Health Inf Sci Syst 13, 68 (2025). [https://doi.org/10.1007/s13755-025-00386-y](https://doi.org/10.1007/s13755-025-00386-y)
 
 1. F. S. Martínez, **J. Casas-Roma**, L. Subirats and R. Parada, *Eco-Efficient Deployment of Spiking Neural Networks on Low-Cost Edge Hardware*, in IEEE Networking Letters, *In press*, [https://doi.org/10.1109/LNET.2025.3611426](https://doi.org/10.1109/LNET.2025.3611426)
 
