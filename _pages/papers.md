@@ -13,6 +13,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Journal papers (indexed in ISI-JCR)
 
+1. Fernando S. Martínez, Raúl Parada, **Jordi Casas-Roma**, Laia Subirats. (2026). *Ecoefficiency Analysis and Regression in Data Conversion for Spiking Neural Network Training*, Advanced Intelligent Systems 2026, 0, e70492. [https://doi.org/10.1002/aisy.70492](https://doi.org/10.1002/aisy.70492)
+
 1. M. Abad, E. Garcia, F. Prados, **J. Casas-Roma**. (2026). *Employing Counterfactual Methods to Interpret Convolutional Network Findings in X-Ray Image Detection*, International Journal of Image, Graphics and Signal Processing (IJIGSP), Vol.18, No.2, pp. 1-19, 2026. [https://doi.org/10.5815/ijigsp.2026.02.01](https://doi.org/10.5815/ijigsp.2026.02.01)
 
 1. Martínez, F. S., **Casas-Roma, J.**, Subirats, L., & Parada, R. (2025). *Energy‐Aware Regression in Spiking Neural Networks for Autonomous Driving: A Comparative Study With Convolutional Networks*. International Journal of Intelligent Systems, 2025(1). [https://doi.org/10.1155/int/4879993](https://doi.org/10.1155/int/4879993)
@@ -65,6 +67,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 ## Conferences and workshops
 
 1. Carretta-Brugueras, M., Bernal, J., **Casas-Roma, J.** (2027). Cross-Domain Single Lesion Localization in Medical Images via Deep Reinforcement Learning. In: Torra, V., Narukawa, Y., Reig-Bolaño, R. (eds) Modeling Decisions for Artificial Intelligence. MDAI 2026. Lecture Notes in Computer Science, vol 16924. Springer, Cham. [https://doi.org/10.1007/978-3-032-37976-4_8](https://doi.org/10.1007/978-3-032-37976-4_8)
+  - [Source code](https://github.com/jcasasr/MDAI_2026)
 
 1. **Casas-Roma, J.**, Lozano-Bagén, T. (2026). *Comparing Graph Neural Networks for Single and Multi-layer Brain Connectivity Analysis in Multiple Sclerosis*. In: Torra, V., Narukawa, Y., Domingo-Ferrer, J. (eds) Modeling Decisions for Artificial Intelligence. MDAI 2025. Lecture Notes in Computer Science, vol 15957. Springer, Cham. [https://doi.org/10.1007/978-3-032-00891-6_27](https://doi.org/10.1007/978-3-032-00891-6_27)
   - [Source code](https://github.com/jcasasr/CVC_BrainNetsGNNs)
