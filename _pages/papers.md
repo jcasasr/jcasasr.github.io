@@ -13,7 +13,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Journal papers (indexed in ISI-JCR)
 
-1. Fernando S. Martínez, Raúl Parada, **Jordi Casas-Roma**, Laia Subirats. (2026). *Ecoefficiency Analysis and Regression in Data Conversion for Spiking Neural Network Training*, Advanced Intelligent Systems 2026, 0, e70492. [https://doi.org/10.1002/aisy.70492](https://doi.org/10.1002/aisy.70492)
+1. Fernando S. Martínez, Raúl Parada, **Jordi Casas-Roma**, Laia Subirats. (2026). *Ecoefficiency Analysis and Regression in Data Conversion for Spiking Neural Network Training*, Advanced Intelligent Systems 2026, 8, e70492. [https://doi.org/10.1002/aisy.70492](https://doi.org/10.1002/aisy.70492)
 
 1. M. Abad, E. Garcia, F. Prados, **J. Casas-Roma**. (2026). *Employing Counterfactual Methods to Interpret Convolutional Network Findings in X-Ray Image Detection*, International Journal of Image, Graphics and Signal Processing (IJIGSP), Vol.18, No.2, pp. 1-19, 2026. [https://doi.org/10.5815/ijigsp.2026.02.01](https://doi.org/10.5815/ijigsp.2026.02.01)
 
